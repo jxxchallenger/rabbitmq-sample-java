@@ -45,6 +45,8 @@
         <module>work-queues</module>
         <module>publish-subscribe</module>
         <module>routing</module>
-    <module>topic</module>
-  </modules>
+        <module>topic</module>
+        <module>publisher-confirms</module>
+        <module>spring-rabbitmq</module>
+    </modules>
 </project>
